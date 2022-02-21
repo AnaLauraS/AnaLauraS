@@ -12,7 +12,7 @@
  
 <a href="https://linkedin.com/in/ana-laura-siczkowski/" target="_blank">On LinkedIn!</a> <a href="https://linkedin.com/in/ana-laura-siczkowski/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 
-<a href="https://analauras.github.io/CV/" target="_black">My CV! :eyes:</a>
+<a href="https://analauras.github.io/CV/" target="_blank">My CV! :eyes:</a>
 
 ***
 
