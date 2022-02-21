@@ -10,7 +10,9 @@
 
 📥 **How to reach me:**
  
-<a href="https://linkedin.com/in/ana-laura-siczkowski/" target="blank">On LinkedIn!</a> <a href="https://linkedin.com/in/ana-laura-siczkowski/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maurisandev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ana-laura-siczkowski/" target="blank">On LinkedIn!</a> <a href="https://linkedin.com/in/ana-laura-siczkowski/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+
+<a href="https://analauras.github.io/CV/" target="black">My CV! :eyes:</a>
 
 ***
 
